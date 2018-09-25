@@ -1,0 +1,10 @@
+names,latitude ,longitude
+Sarova Woodlands Hotel & Spa Nakuru,-0.2818,36.0888
+Legacy Hotel & Suites,-0.2871,36.0755
+Eastmark Hotel,-0.2875,36.0768
+Ziwa Bush Lodge ,-0.3221,36.0117
+Punda Milias Nakuru Camp,-0.3636,36.1739
+Nakuru Milimani Guest House,-0.27,36.0768
+Hillcourt Resort & Spa,-0.2827,36.101
+The Ole-Ken Hotel,-0.2888,36.0635
+Eagle Palace Hotel,-0.288,36.0749
